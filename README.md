@@ -24,7 +24,7 @@ Former frontend developer turned iOS explorer at Apple Developer Academy, curren
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/mukhtaram-sulaimonov) • mukhtaramsulaimonov@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mukhtaramsulaimonov/) • mukhtaramsulaimonov@gmail.com
 
 ---
 
