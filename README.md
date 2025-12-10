@@ -26,6 +26,4 @@ Former frontend developer turned iOS explorer at Apple Developer Academy, curren
 
 [LinkedIn](https://www.linkedin.com/in/mukhtaramsulaimonov/) • mukhtaramsulaimonov@gmail.com
 
----
 
-*Bridging business automation today, building scalable systems tomorrow.*
